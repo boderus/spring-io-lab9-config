@@ -1,0 +1,7 @@
+test:
+  some:
+    prop: "whatever"
+  other:
+    - "abc"
+    - "def"
+    - "ghi"
